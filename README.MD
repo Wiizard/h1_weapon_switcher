@@ -1,6 +1,16 @@
 # h1_weapon_switcher
 A script used to switch between weapons from a configurable array.
 
+# Demo
+![Demo](/demo.gif?raw=true "h1_weapon_switcher_demo")
+
+# Controls
+| Bind | Description |
+| --- | --- |
+| +smoke | Switches to the previous weapon in the array |
+| +activate | Switches to the next weapon in the array |
+
+
 # Usage
 1. Download the latest release from [here](http://github.com/Wiizard/h1_weapon_switcher/releases/latest).
 2. Extract the zip to your h1 scripts folder: `h1-mod\script\mp\`.
@@ -131,15 +141,6 @@ A script used to switch between weapons from a configurable array.
         - e.g. `h1_ak47_mp_a#none_f#base`.
   4. Once your happy with your chosen weapons, save the `weapon_list.lua` file, run the game and start a Private Match.
   5. Profit?
-
-# Controls
-| Bind | Description |
-| --- | --- |
-| +smoke | Switches to the previous weapon in the array |
-| +activate | Switches to the next weapon in the array |
-
-# Demo
-![Demo](/demo.gif?raw=true "h1_weapon_switcher_demo")
   
 # Credits
 - Clippy

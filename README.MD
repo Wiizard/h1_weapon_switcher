@@ -139,7 +139,7 @@ A script used to switch between weapons from a configurable array.
 | +activate | Switches to the next weapon in the array |
 
 # Demo
-![Demo](demo.gif?raw=true "h1_weapon_switcher_demo")
+![Demo](/demo.gif?raw=true "h1_weapon_switcher_demo")
   
 # Credits
 - Clippy

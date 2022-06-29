@@ -7,8 +7,8 @@ A script used to switch between weapons from a configurable array.
 # Controls
 | Bind | Description |
 | --- | --- |
-| +smoke | Switches to the previous weapon in the array |
-| +activate | Switches to the next weapon in the array |
+| +smoke | Switches to the previous weapon in the array. |
+| +activate | Switches to the next weapon in the array. |
 
 
 # Usage
